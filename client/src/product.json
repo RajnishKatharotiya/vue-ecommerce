@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Spacks SP 1",
+        "photo": "1.png",
+        "price": {
+            "USD": 11.00,
+            "CAD": 118.50
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 2,
+        "name": "Spacks SP 2",
+        "photo": "2.png",
+        "price": {
+            "USD": 12.44,
+            "CAD": 123.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 3,
+        "name": "Spacks SP 3",
+        "photo": "3.png",
+        "price": {
+            "USD": 13.44,
+            "CAD": 133.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 4,
+        "name": "Spacks SP 4",
+        "photo": "4.png",
+        "price": {
+            "USD": 14.44,
+            "CAD": 143.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 5,
+        "name": "Spacks SP 5",
+        "photo": "5.png",
+        "price": {
+            "USD": 15.44,
+            "CAD": 153.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 6,
+        "name": "Spacks SP 6",
+        "photo": "6.png",
+        "price": {
+            "USD": 16.44,
+            "CAD": 163.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 7,
+        "name": "Spacks SP 7",
+        "photo": "7.png",
+        "price": {
+            "USD": 17.44,
+            "CAD": 173.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 8,
+        "name": "Spacks SP 8",
+        "photo": "8.png",
+        "price": {
+            "USD": 18.44,
+            "CAD": 183.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 9,
+        "name": "Spacks SP 9",
+        "photo": "9.png",
+        "price": {
+            "USD": 19.44,
+            "CAD": 193.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 10,
+        "name": "Spacks SP 10",
+        "photo": "10.png",
+        "price": {
+            "USD": 110.44,
+            "CAD": 1103.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 11,
+        "name": "Spacks SP 11",
+        "photo": "11.png",
+        "price": {
+            "USD": 111.44,
+            "CAD": 1113.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 12,
+        "name": "Spacks SP 12",
+        "photo": "12.png",
+        "price": {
+            "USD": 112.44,
+            "CAD": 1123.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 13,
+        "name": "Spacks SP 13",
+        "photo": "13.png",
+        "price": {
+            "USD": 113.44,
+            "CAD": 1133.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 14,
+        "name": "Spacks SP 14",
+        "photo": "14.png",
+        "price": {
+            "USD": 114.44,
+            "CAD": 1143.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 15,
+        "name": "Spacks SP 15",
+        "photo": "15.png",
+        "price": {
+            "USD": 115.44,
+            "CAD": 1153.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 16,
+        "name": "Spacks SP 16",
+        "photo": "16.png",
+        "price": {
+            "USD": 116.44,
+            "CAD": 1163.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 17,
+        "name": "Spacks SP 17",
+        "photo": "17.png",
+        "price": {
+            "USD": 117.44,
+            "CAD": 1173.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 18,
+        "name": "Spacks SP 18",
+        "photo": "18.png",
+        "price": {
+            "USD": 118.44,
+            "CAD": 1183.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 19,
+        "name": "Spacks SP 19",
+        "photo": "19.png",
+        "price": {
+            "USD": 119.44,
+            "CAD": 1193.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    },
+    {
+        "id": 20,
+        "name": "Spacks SP 20",
+        "photo": "20.png",
+        "price": {
+            "USD": 120.44,
+            "CAD": 1203.82
+        },
+        "type": "Glasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?"
+    }
+]
