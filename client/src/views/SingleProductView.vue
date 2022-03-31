@@ -7,7 +7,7 @@
                 <div class="small mb-1">Product id: {{item.id}} </div>
                 <h1 class="display-5 fw-bolder">{{item.name}}</h1>
                 <div class="fs-5 mb-5">
-                    <span>${{item.price?.CAD?.toFixed(2)}}</span>
+                    <span>${{item.price?.toFixed(2)}}</span>
                 </div>
                 <p class="lead">Description: {{item.description}}</p>
                 <div class="d-flex">

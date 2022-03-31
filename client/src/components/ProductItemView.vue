@@ -14,7 +14,7 @@
                 <h5 class="fw-bolder">{{item.name}}</h5>
                 <!-- Product price-->
                 <span v-if="item.beforeDiscountPrice" class="text-muted text-decoration-line-through">${{item.beforeDiscountPrice.toFixed(2)}}</span>
-                ${{item.price.CAD.toFixed(2)}}
+                ${{item.price.toFixed(2)}}
             </div>
         </div>
         <!-- Product actions-->

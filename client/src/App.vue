@@ -43,7 +43,8 @@
 </template>
 
 <script>
-import products from '@/product.json';
+
+import ProductDataService from '@/services/ProductDataService';
 import CartView from '@/components/CartView.vue'
 
 export default {
@@ -54,7 +55,7 @@ export default {
     data() {
         return {
             cartVisible: false,
-            products: products,
+            products: [],
             cart: {},
         }
     },
@@ -82,7 +83,7 @@ export default {
             }
         },
         getSingleItem(id) {
-            return products.find(e => e.id === id)
+            return this.products.find(e => e.id === id)
         }
     },
     computed: {
@@ -92,5 +93,9 @@ export default {
             return sum;
         }
     },
+    async mounted(){
+        const result = await ProductDataService.getAll();
+        this.products = result.data;
+    }
 }
 </script>
