@@ -9,3 +9,10 @@ exports.findAll = (req, res) => {
         .then(data => res.send(data))
         .catch(err => res.status(500).send({ message: err.message || "Some error occured." }))
 }
+
+exports.add = (req, res) => {
+    console.log(req.body)
+    Product.create(req.body)
+        .then(data => res.send(data))
+        .catch(err => res.status(500).send({ message: err.message || "Some error occured."}))
+}
